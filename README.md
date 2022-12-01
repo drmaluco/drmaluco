@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drmaluco
-- 👀 I’m interested in CyberSec especially pertaining to cloud infrastructures.  
+- 👀 I’m interested in CyberSec
 - 🌱 I’m currently learning DevSecOps.
 
 
